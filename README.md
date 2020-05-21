@@ -32,9 +32,19 @@ Before running, you need to configure:
 }
 ```
 
+### 🏃🏻‍♂️ Run the project
+
+```python main.py```
+
+this command or select **Run and Debug**
+
 ## :memo: LICENSE
 
 This project is under license from MIT. See the [LICENSE](LICENSE.md) file for more details.
+
+## YouTube Video
+
+https://youtu.be/PC413Fiw9PM
 
 ---
 Developed by [Jean Jacques](https://www.linkedin.com/in/jjean-jacques10/) 
